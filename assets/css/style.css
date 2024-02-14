@@ -192,6 +192,18 @@ h6 {
   text-transform: uppercase;
 }
 
+ .logoa {
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 400;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #fff;
+
+}
+
 #header .logo a {
   color: #fff;
 }
@@ -510,9 +522,9 @@ h6 {
 
 #hero h2 {
   color: #fff;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
   font-size: 48px;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 #hero p {
@@ -664,7 +676,7 @@ section {
 # About Us
 --------------------------------------------------------------*/
 .about {
-  padding: 140px 0;
+  padding: 80px 0;
   background: url("../img/about-bg.png") top center no-repeat;
   position: relative;
 }
