@@ -511,8 +511,8 @@ iframe.wait-autoplay {
 .glightbox-clean .gslide-title {
   font-size: 1em;
   font-weight: normal;
-  font-family: arial;
-  color: #000;
+  font-family: "Raleway", sans-serif;
+  color: #0880e8;
   margin-bottom: 19px;
   line-height: 1.4em;
 }

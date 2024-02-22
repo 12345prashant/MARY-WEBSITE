@@ -681,6 +681,10 @@ section {
   position: relative;
 }
 
+.portfoio  h4 {
+    font-family: "Raleway", sans-serif;
+  }
+
 .about:before {
   content: "";
   background: rgba(255, 255, 255, 0.75);
