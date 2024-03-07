@@ -7,13 +7,13 @@ document.addEventListener("DOMContentLoaded", function () {
       const formData = new FormData(contactForm);
   
       const payload = {
-        fromEmail: "nandhakumar1411@gmail.com",
+        fromEmail: "notarizedocuments4you@gmail.com",
         fromName: "Mary Mcilvain",
-        fromPhone: "+91 70222 41471",
+        fromPhone: "+1 (425) 765-4195",
         name: formData.get('name'),
         subject: formData.get('subject'),
         email: formData.get('email'),
-        phoneNumber: "+91 70222 4147124",
+        phoneNumber: "+91 70222 41471",
         message: formData.get('message'),
       };
   
