@@ -2435,3 +2435,163 @@ section {
 #footer .credits a {
   color: #f6b024;
 }
+
+
+.course-small{
+  color: #0665b7;
+}
+
+.course-header{
+  font-weight: 900;
+  letter-spacing: 0.15rem;
+}
+
+.course-para{
+  margin-top: 30px;
+}
+
+.btn-buy-now {
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 32px;
+  border-radius: 5px;
+  transition: 0.3s;
+  line-height: 1;
+  color: #0880e8;
+  animation-delay: 0.8s;
+  margin-top: 6px;
+  border: 2px solid #0880e8;
+  /* width: auto; */
+  /* white-space: nowrap;  */
+  text-align: center;
+}
+
+.btn-buy-now:hover {
+  background: #0880e8;
+  color: #fff;
+  text-decoration: none;
+}
+.course-img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* min-width: 400px; */
+  /* height: 100%; */
+  max-width: 200px;
+  /* max-height: 100px; */
+}
+
+.user-reviews{
+  display: flex;
+  margin-top: 10px;
+  /* flex-direction: c */
+  justify-content: space-between;
+  gap: 10px;
+  /* background-color: grey; */
+
+}
+
+.card{
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  padding: 10px;
+  /* text-align: center; */
+  gap: 5px;
+  /* background-color: #e6e1e1; */
+}
+
+.star-rating {
+  display: flex;
+  font-size: 30px;
+  color: #ddd; 
+}
+
+.star {
+  cursor: not-allowed; 
+  color: gold; 
+}
+
+.buy-now-card{
+  /* margin-top: 60px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: fixed;
+    /* top: 50px;  */
+    z-index: 1000;
+  /* height: 100%; */
+
+}
+
+
+.course-content-header{
+  color: black;
+  font-weight: 800;
+
+  
+}
+
+
+.what-will-you-learn {
+  border: 2px solid rgb(179, 173, 173);
+  padding: 20px;
+  border-radius: 8px;
+  background: #f9f9f9; 
+  box-shadow: 2px 2px 10px rgba(120, 118, 118, 0.1); 
+  
+}
+
+
+
+.what-will-you-learn ul {
+  list-style: none;
+  padding: 0;
+}
+
+.what-will-you-learn li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.what-will-you-learn i {
+  color: #0880e8;
+  margin-right: 10px;
+}
+
+.course-includes{
+  margin-top: 20px;
+}
+
+.course-lectures{
+  /* flex: ; */
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(238, 221, 221);
+  padding: 10px 0;
+  border: 1px;
+  border-radius: 1px;
+  
+  border-bottom: 1px solid #0e0d0d;
+  padding-right: 10px;
+
+  
+}
+.course-lectures:last-child {
+  border-bottom: none; 
+}
+.collapse-lectures ul{
+  list-style: none;
+  color: #6bb1ee;
+}
+
+
